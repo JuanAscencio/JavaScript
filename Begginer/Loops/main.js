@@ -17,9 +17,16 @@ const todos = [
     },
 ];
 
-// Output
+// Works. But it's not the best way
+/*
 for(let i=0; i < todos.length; i++){
     console.log(`ID: ${todos[i].id}\nText: ${todos[i].text}`)
+}
+*/
+
+// Better
+for(let todo of todos){
+    console.log(todo.text)
 }
 
 // For loops

@@ -55,6 +55,3 @@ console.log(s.toLocaleUpperCase())
 console.log(s.toLowerCase())
 console.log(s.substring(0,5))
 console.log(s.split(''));
-
-// I am at minute 20:00
-// https://www.youtube.com/watch?v=hdI2bqOjy3c&t=4s
