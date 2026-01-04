@@ -4,6 +4,22 @@ body{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-header{
+h1{
     text-align: center;
+}
+
+h2{
+    margin-left: 20px;
+}
+
+p{
+    margin-left: 60px;
+}
+
+pre{
+    border-radius: 1em;
+    padding: 18px;
+    background-color: black;
+    color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
