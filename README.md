@@ -14,6 +14,7 @@
 - Functions
 - Object literals
 - OOP
+- DOM
 
 ## Resources
 
@@ -22,5 +23,5 @@ You can find the resources of this file on the video: <br>
 
 ---
 
-I am at minute 59:20 <br>
+I am at minute 1:12:37 <br>
 https://www.youtube.com/watch?v=hdI2bqOjy3c&t=4s
