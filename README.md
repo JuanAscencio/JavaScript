@@ -18,5 +18,5 @@
 
 ## Resources
 
-You can find the resources of this file on the video: <br>
+You can find the resources of this files on the video: <br>
 [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c)
