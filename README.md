@@ -20,8 +20,3 @@
 
 You can find the resources of this file on the video: <br>
 [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c)
-
----
-
-I am at minute 1:12:37 <br>
-https://www.youtube.com/watch?v=hdI2bqOjy3c&t=4s
